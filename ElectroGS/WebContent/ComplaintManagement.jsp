@@ -15,7 +15,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-6">
-				<h1>Complaint Management</h1>
+				<h1>inquiry Management</h1>
 
 				<form id="formComplaintManagement" name="formComplaintManagement" method="post" action="ComplaintManagement.jsp">
 
